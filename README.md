@@ -2,11 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!+My+name+is+Gabriela+De+Nigris;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=gabidenigris.gabidenigris&"  />
-</div>
+---
 
 <h3 align="left">About me</h3>
 
@@ -50,4 +46,9 @@
   <a href="#" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/gabidenigris/" alt="Instagram"/></a>
 </p>
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=gabidenigris.gabidenigris&"  />
+</div>
+
 
