@@ -19,7 +19,7 @@
 ###
 
 
-<h4 align="left">Programming Languages & Tools</h4>
+<h3 align="left">Programming Languages & Tools</h3>
 
 ###
 
@@ -37,7 +37,7 @@
 
 ###
 
-<h4 align="left">Social & Contact</h3>
+<h3 align="left">Social & Contact</h3>
 <p align="left">
     <a href="#" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:denigriscontato@gmail.com" alt="Gmail"/></a>
