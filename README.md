@@ -2,7 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!+My+name+is+Gabriela+De+Nigris;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
+## About me
 
+
+
+## Portifolio
 
 
 <h4 align="left">Programming Languages & Tools</h4>
