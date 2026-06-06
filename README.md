@@ -39,6 +39,9 @@
 
 <h3 align="left">Social & Contact</h3>
 <p align="left">
+   <a href="https://gabidenigris.github.io/" title="My site">
+  <img src="https://img.shields.io/badge/-My site-2bb5a0?style=flat-square&logo=github&logoColor=white" alt="My site"/>
+</a>
   <a href="mailto:denigriscontato@gmail.com" title="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
