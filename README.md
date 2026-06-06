@@ -18,7 +18,7 @@
 
 <h3 align="left">Portifolio</h3>
 
-<p align="left">- projeto 1<br>- projeto 2<br>- projeto 3<br>- projeto 4</p>
+<p align="left">• Finance → Repository<br>• Econometrics → Repository<br>• Macroeconomics → Repository<br>• Public Policy → Repository</p>
 
 ###
 
@@ -32,6 +32,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"  />
@@ -39,7 +41,7 @@
 
 ###
 
-<h4 align="left">Social & Contact</h4>
+<h4 align="left">Social & Contact</h3>
 <p align="left">
     <a href="#" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:denigriscontato@gmail.com" alt="Gmail"/></a>
