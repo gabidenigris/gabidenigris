@@ -16,7 +16,9 @@
 
 <p align="left">• Finance → Repository<br>• Econometrics → Repository<br>• Macroeconomics → Repository<br>• Public Policy → Repository</p>
 
-###
+<p>You can find my CV <a href="https://drive.google.com/file/d/1X51FkgCs0o_rTPy4rYa_UNVjesV5YHCF/view?usp=sharing">
+  <img src="https://img.shields.io/badge/-here-1a8a78?style=flat-square&logoColor=white" alt="CV"/>
+</a></p>
 
 
 <h3 align="left">Programming Languages & Tools</h3>
@@ -39,8 +41,8 @@
 
 <h3 align="left">Social & Contact</h3>
 <p align="left">
-   <a href="https://gabidenigris.github.io/" title="My site">
-  <img src="https://img.shields.io/badge/-My site-2bb5a0?style=flat-square&logo=github&logoColor=white" alt="My site"/>
+  <a href="https://gabidenigris.github.io/" title="My site">
+  <img src="https://img.shields.io/badge/-My%20site-1a8a78?style=flat-square&logo=github&logoColor=white" alt="My site"/>
 </a>
   <a href="mailto:denigriscontato@gmail.com" title="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
