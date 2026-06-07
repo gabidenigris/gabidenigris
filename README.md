@@ -20,7 +20,8 @@
   • Public Policy → Repository <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnh1NmF5NjI5dG1oeWFveGhibGYwbTh5NXVwd3d5aHlzNXN2amZxeSZlcD1naWZfbWFrZXImY3Q9Zw/17mNCcKU1mJlrbXodo/giphy.gif" width="16"/>
 </p>
 
-<p>You can find my CV <a href="https://drive.google.com/file/d/1X51FkgCs0o_rTPy4rYa_UNVjesV5YHCF/view?usp=sharing">here</a>.</p>
+<p>You can find my CV <a href="https://github.com/gabidenigris/gabidenigris/raw/main/CV_Gabriela_De_Nigris.pdf">here</a>.</p>
+
 
 <h3 align="left">Programming Languages & Tools</h3>
 
