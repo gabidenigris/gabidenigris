@@ -12,9 +12,13 @@
 
 ###
 
-<h3 align="left">Portifolio</h3>
-
-<p align="left">• Finance → Repository<br>• Econometrics → Repository<br>• Macroeconomics → Repository<br>• Public Policy → Repository</p>
+<h3 align="left">Portfolio</h3>
+<p align="left">
+  • Finance → <a href="https://github.com/gabidenigris/finance-projects">Repository</a><br>
+  • Econometrics → Repository<br>
+  • Macroeconomics → Repository<br>
+  • Public Policy → Repository
+</p>
 
 <p>You can find my CV <a href="https://drive.google.com/file/d/1X51FkgCs0o_rTPy4rYa_UNVjesV5YHCF/view?usp=sharing">
   <img src="https://img.shields.io/badge/-here-1a8a78?style=flat-square&logoColor=white" alt="CV"/>
