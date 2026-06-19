@@ -78,3 +78,6 @@
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabidenigris&layout=compact&theme=dark&bg_color=0a1a1a&title_color=a3e4dd&text_color=e8f4f8&border_color=1f6b6b" />
 
 </div>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6b6b,50:0f3d3d,100:0a1a1a&height=100&section=footer" width="100%" />
