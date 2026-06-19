@@ -4,7 +4,7 @@
 
 ---
 
-<h3 align="left">About me</h3>
+<h3 align="left">• About me</h3>
 
 <p align="left">Undergraduate student in Economics at Ibmec (2022-2026), with a focus on macroeconomics, finance and applied econometrics. Currently, I am part of the economic team at the National Confederation of Commerce (CNC), where I am dedicated to transforming data into strategic advocacy for the commerce and services sector.
   
@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="left">Portfolio</h3>
+<h3 align="left">• Portfolio</h3>
 <p align="left">
   • Econometrics → <a href="https://github.com/gabidenigris/econometrics">Repository</a><br>
   • Finance → <a href="https://github.com/gabidenigris/finance">Repository</a><br>
@@ -22,8 +22,9 @@
 
 <p>You can find my CV <a href="https://gabidenigris.github.io/files/CV_Gabriela_De_Nigris.pdf">here</a>.</p>
 
+<br>
 
-<h3 align="left">Programming Languages & Tools</h3>
+<h3 align="left">• Programming Languages & Tools</h3>
 
 ###
 
@@ -45,7 +46,7 @@
 
 ###
 
-<h3 align="left">Social & Contact</h3>
+<h3 align="left">• Social & Contact</h3>
 <p align="left">
   <a href="https://gabidenigris.github.io/" title="My site">
   <img src="https://img.shields.io/badge/-My%20site-1a8a78?style=flat-square&logo=github&logoColor=white" alt="My site"/>
@@ -61,5 +62,19 @@
   </a>
 </p>
 
+<br>
 
+### • GitHub Stats
+<div align="left">
 
+![GitHub Streak](https://streak-stats.demolab.com?user=gabidenigris&theme=dark&background=0a1a1a&ring=1f6b6b&fire=2dd4bf&currStreakLabel=a3e4dd&border=1f6b6b&timezone=America/Sao_Paulo)
+
+<br>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=gabidenigris&show_icons=true&theme=dark&bg_color=0a1a1a&title_color=a3e4dd&icon_color=2dd4bf&text_color=e8f4f8&border_color=1f6b6b)
+
+<br>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabidenigris&layout=compact&theme=dark&bg_color=0a1a1a&title_color=a3e4dd&text_color=e8f4f8&border_color=1f6b6b" />
+
+</div>
