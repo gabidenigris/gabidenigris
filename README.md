@@ -65,20 +65,7 @@
 
 <br>
 
-### GitHub Stats
-<div align="left">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=gabidenigris&theme=dark&background=0a1a1a&ring=1f6b6b&fire=2dd4bf&currStreakLabel=a3e4dd&border=1f6b6b&timezone=America/Sao_Paulo)
-
-<br>
-
-![Stats](https://github-readme-stats.vercel.app/api?username=gabidenigris&show_icons=true&theme=dark&bg_color=0a1a1a&title_color=a3e4dd&icon_color=2dd4bf&text_color=e8f4f8&border_color=1f6b6b)
-
-<br>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabidenigris&layout=compact&theme=dark&bg_color=0a1a1a&title_color=a3e4dd&text_color=e8f4f8&border_color=1f6b6b" />
-
-</div>
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=100&section=footer" width="100%" />
