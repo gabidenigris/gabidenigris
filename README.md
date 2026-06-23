@@ -4,7 +4,7 @@
 
 ---
 
-<h3 align="left">• About me</h3>
+<h3 align="left">About me</h3>
 
 <p align="left">Undergraduate student in Economics at Ibmec (2022-2026), with a focus on macroeconomics, finance and applied econometrics. Currently, I am part of the economic team at the National Confederation of Commerce (CNC), where I am dedicated to transforming data into strategic advocacy for the commerce and services sector.
   
@@ -12,19 +12,20 @@
 
 ###
 
-<h3 align="left">• Portfolio</h3>
+<h3 align="left">Portfolio</h3>
 <p align="left">
   • Econometrics → <a href="https://github.com/gabidenigris/econometrics">Repository</a><br>
   • Finance → <a href="https://github.com/gabidenigris/finance">Repository</a><br>
+  • Charts & Tables → <a href="https://github.com/gabidenigris/charts_tables">Repository</a><br>
   • Macroeconomics → Repository <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnh1NmF5NjI5dG1oeWFveGhibGYwbTh5NXVwd3d5aHlzNXN2amZxeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/17mNCcKU1mJlrbXodo/giphy.gif" width="16"/><br>
-  • Microeconomics → Repository <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnh1NmF5NjI5dG1oeWFveGhibGYwbTh5NXVwd3d5aHlzNXN2amZxeSZlcD1naWZfbWFrZXImY3Q9Zw/17mNCcKU1mJlrbXodo/giphy.gif" width="16"/>
+
 </p>
 
 <p>You can find my CV <a href="https://gabidenigris.github.io/files/CV_Gabriela_De_Nigris.pdf">here</a>.</p>
 
 <br>
 
-<h3 align="left">• Programming Languages & Tools</h3>
+<h3 align="left">Programming Languages & Tools</h3>
 
 ###
 
@@ -46,7 +47,7 @@
 
 ###
 
-<h3 align="left">• Social & Contact</h3>
+<h3 align="left">Social & Contact</h3>
 <p align="left">
   <a href="https://gabidenigris.github.io/" title="My site">
   <img src="https://img.shields.io/badge/-My%20site-1a8a78?style=flat-square&logo=github&logoColor=white" alt="My site"/>
@@ -64,7 +65,7 @@
 
 <br>
 
-### • GitHub Stats
+### GitHub Stats
 <div align="left">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=gabidenigris&theme=dark&background=0a1a1a&ring=1f6b6b&fire=2dd4bf&currStreakLabel=a3e4dd&border=1f6b6b&timezone=America/Sao_Paulo)
