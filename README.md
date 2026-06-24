@@ -22,7 +22,7 @@
   • Microeconomics → Repository <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnh1NmF5NjI5dG1oeWFveGhibGYwbTh5NXVwd3d5aHlzNXN2amZxeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/17mNCcKU1mJlrbXodo/giphy.gif" width="16"/><br>
 </p>
 
-<p>You can find my CV <a href="https://gabidenigris.github.io/files/CV_Gabriela_De_Nigris.pdf">here</a>.</p>
+<p>📄 You can find my CV <a href="https://gabidenigris.github.io/files/CV_Gabriela_De_Nigris.pdf">here</a>.</p>
 
 <br>
 
