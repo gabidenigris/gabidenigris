@@ -14,7 +14,6 @@
 
 <h3 align="left">Portfolio</h3>
 <p align="left">
-  • My website → <a href="https://gabidenigris.github.io/">Repository</a><br>
   • Econometrics → <a href="https://github.com/gabidenigris/econometrics">Repository</a><br>
   • Finance → <a href="https://github.com/gabidenigris/finance">Repository</a><br>
   • Charts & Tables → <a href="https://github.com/gabidenigris/charts_tables">Repository</a><br>
