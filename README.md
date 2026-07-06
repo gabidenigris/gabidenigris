@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="left">Portfolio</h3>
+<h3 align="left">Repositories</h3>
 <p align="left">
   • Econometrics → <a href="https://github.com/gabidenigris/econometrics">Repository</a><br>
   • Finance → <a href="https://github.com/gabidenigris/finance">Repository</a><br>
